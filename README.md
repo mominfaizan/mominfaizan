@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Faizan Momin</h1>
 <h3 align="center">A passionate frontend developer,Flutter developer from India</h3>
 
- - 🔭 I’m currently working on [shoeZapp](https://github.com/mominfaizan/shoeZapp)
+ - 🔭 I’m currently working on Chat BLISS
 
 - 🌱 I’m currently learning **Flutter,MERN**
 
@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mominfaizan&show_icons=true&locale=en&layout=compact" alt="mominfaizan" /></p>
 
-  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mominfaizan&show_icons=true&locale=en" alt="mominfaizan" /></p>
