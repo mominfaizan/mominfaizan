@@ -4,7 +4,7 @@
 
  - 🔭 I’m currently working at e-infochips
 
-- 🌱 I’m currently learning **C,ambeded**
+- 🌱 I’m currently learning **C,Embedded**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://faizanmomin.netlify.app/)
 
